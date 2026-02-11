@@ -1,5 +1,22 @@
 # 💫 About Me:
-⚒️ I’m currently working on<br>A professional internship and career platform called Nestern using Flutter and Firebase, designed for students and employers to connect over internships, jobs, and courses.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Projects related to Flutter app development, Firebase backend, or any full-stack web/mobile application. Also open to working on open-source initiatives!<br><br>🤝 I’m looking for help with<br>Implementing advanced animations, video playback features, and performance optimization in Flutter apps.<br><br>🌱 I’m currently learning<br>State management with Riverpod, clean architecture in Full Stack Dev, and DevOps tools for better deployment practices.<br><br>💬 Ask me about<br>Flutter, Firebase, Full-stack development, or how to structure real-time internship platforms.<br><br>⚡ Fun fact<br>I love turning complex UIs into pixel-perfect Full Stack apps—and I can binge-debug for hours with music on loop!<br><br>
+⚒️ I’m currently working on<br>
+Building full-stack web and mobile applications with a strong focus on backend development using Node.js (Express, Fastify), while creating responsive user interfaces with React and React Native. I’m also exploring Three.js as a starting point toward game and engine-based development.<br><br>
+
+🧑‍🤝‍🧑 I’m looking to collaborate on<br>
+Full-stack or backend-heavy projects, React or React Native applications, and open-source initiatives with real-world impact.<br><br>
+
+🤝 I’m looking for help with<br>
+Improving backend scalability and performance, and understanding engine-level concepts while working with Three.js.<br><br>
+
+🌱 I’m currently learning<br>
+Advanced backend architecture and system design, Three.js fundamentals, and production-ready development practices.<br><br>
+
+💬 Ask me about<br>
+Full-stack development, Node.js (Express, Fastify), React / React Native, and databases like PostgreSQL, MongoDB, and Supabase.<br><br>
+
+⚡ Fun fact<br>
+I enjoy building complete products end-to-end—from clean UIs to scalable backend systems—and I’m steadily working toward my dream of becoming a game developer 🎮<br><br>
+
 
 
 ## 🌐 Socials:
